@@ -2,9 +2,6 @@
 # banco
  Proyecto de banco con MVC
 
-## Observación respecto a la aplicación
-
-En la aplicación inicial hay opciones para realizar Transferencias y Extracciones, sin embargo, dichas opciones serán implementadas en el proyecto 4 y no están presentes en el enunciado del proyecto 3.
 
 ## Requisitos del sistema
 
